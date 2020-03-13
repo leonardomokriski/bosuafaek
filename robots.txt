@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahgunaech.trailmix.ie/sitemap.xml
